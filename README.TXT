@@ -1,4 +1,4 @@
-MY EXPERT ADVISOR "EAShazam PRO" MADE FOR METATRADER 4 (MT4) IS NOW DISCONTINUED!
+MY EXPERT ADVISOR "EAShazam PRO" MADE FOR METATRADER 4 (MT4) IS NOW DISCONTINUED! - END IN DECEMBER 2022
 
 Why was the project discontinued?  Why the MT4 platform is already obsolete.  Today we have a lot of good and FREE scripts for the MT5 platform :)  Its parameters are mentioned in the README.TXT file THIS FILE!
 
@@ -26,3 +26,5 @@ QRCode has been disabled and the website discontinued (no longer supported)
 The original source of this digital product (EAShazam Pro) has been discarded.
 
 Developed and translated by Brazilian Jürgen Weichert (Digital Project Manager)
+
+End in December 2022 - EAShazam PRO (MT4)
